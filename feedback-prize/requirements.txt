@@ -2,3 +2,12 @@ ipykernel
 kaggle
 pandas
 numpy
+matplotlib
+nltk
+tqdm
+spacy
+sklearn
+jupyter
+ipywidgets
+widgetsnbextension
+jupyterlab_widgets
