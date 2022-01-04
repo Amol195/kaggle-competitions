@@ -134,4 +134,8 @@ dmypy.json
 
 feedback-prize/FP_env/
 
+# Data
+
+feedback-prize/data/
+
 
